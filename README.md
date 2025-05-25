@@ -5,6 +5,7 @@ Este é meu portfólio desenvolvido em **React Native com Expo**, onde apresento
 O objetivo deste app é demonstrar minhas habilidades tanto no desenvolvimento mobile quanto na organização de projetos, além de servir como vitrine profissional.
 
 👩‍💻 Desenvolvido por
+
 Maria Clara C Soares
 
 ## ✨ Funcionalidades
@@ -72,6 +73,8 @@ npx expo start
 ```
 
 Escaneie o QR Code com o app Expo Go no seu celular (Android ou iOS).
+
+## 👩‍💻 Contato
 
 📧 claracsoares10@gmail.com
 🔗 linkedin.com/in/maria-clara-soares
