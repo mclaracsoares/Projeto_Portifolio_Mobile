@@ -78,8 +78,7 @@ Maria Clara C Soares
 ![Tecnologias Usadas](![tecnologias](https://github.com/user-attachments/assets/09cccc1c-23d7-4886-bce9-ee14cca6f545)
 )
 
-![Contato](![contato](https://github.com/user-attachments/assets/ba91ba20-27dc-457e-a27d-0cbc72b9ac72)
-)
+(https://github.com/user-attachments/assets/ba91ba20-27dc-457e-a27d-0cbc72b9ac72)
 
 
 
