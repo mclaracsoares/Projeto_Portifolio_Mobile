@@ -9,16 +9,16 @@ Maria Clara C Soares
 
 ## ✨ Funcionalidades
 
-- ✅ Tela inicial (Home) com navegação intuitiva
-- ✅ Sobre mim
-- ✅ Formação acadêmica
-- ✅ Cursos complementares
-- ✅ Experiência profissional
-- ✅ Portfólio com alguns projetos com links diretos para o GitHub
-- ✅ Contato com acesso rápido (email, telefone, LinkedIn)
-- ✅ Mini game: **Jogo da Senha (Bulls and Cows)**, com integração via API
-- ✅ Navegação entre páginas com **Expo Router**
-- ✅ Design responsivo e moderno, adaptado para mobile
+-  Tela inicial (Home) com navegação intuitiva
+-  Sobre mim
+-  Formação acadêmica
+-  Cursos complementares
+-  Experiência profissional
+-  Portfólio com alguns projetos com links diretos para o GitHub
+-  Contato com acesso rápido (email, telefone, LinkedIn)
+-  Mini game: **Jogo da Senha (Bulls and Cows)**, com integração via API
+-  Navegação entre páginas com **Expo Router**
+-  Design responsivo e moderno, adaptado para mobile
 
 ## 🚀 Tecnologias Utilizadas
 
