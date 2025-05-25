@@ -47,40 +47,17 @@ Maria Clara C Soares
 
 ## 🖼️ Screenshots
 
-| Home | Projetos | Jogo da Senha |
-|------|----------|----------------|
-| Sobre | Formação Acadêmica | Experiência Profissional |
-|------|----------|----------------|
-| Cursos Complementares | Tecnologias Usadas | Contato |
+| <img src="./assets/images/prints/home.jpg" width="180"/> | <img src="./assets/images/prints/projetos.jpg" width="180"/> | <img src="./assets/images/prints/jogodasenha.jpg" width="180"/> |
+|-----------------|---------------------|------------------|
+| **Home**        | **Projetos**        | **Jogo da Senha**|
 
+| <img src="./assets/images/prints/sobre.jpg" width="180"/> | <img src="./assets/images/prints/formação.jpg" width="180"/> | <img src="./assets/images/prints/experiencia.jpg" width="180"/> |
+|-----------------|----------------------------|-------------------------------|
+| **Sobre**       | **Formação Acadêmica**     | **Experiência Profissional**  |
 
-![Home](![home](![home](https://github.com/user-attachments/assets/4ba16616-462f-40dc-bf48-a0b96785c1f4)
-)
-
-![Projetos](![projetos](https://github.com/user-attachments/assets/20bb75d1-b11b-4b60-9a60-e9b4c9f00d70)
-)
-
-![Jogo da Senha]![jogodasenha](https://github.com/user-attachments/assets/f21baab4-34b6-410f-b61b-96a41b14f5d2)
-)
-
-![Sobre](![sobre](https://github.com/user-attachments/assets/89f26ee7-b099-491d-a407-338b88ea969f)
-)
-
-![Formação Acadêmica](![formação](https://github.com/user-attachments/assets/0f0aa9b1-997f-4927-8424-88016b4f467f)
-)
-
-![Experiência Profissional](![experiencia](https://github.com/user-attachments/assets/36158107-58a5-4a78-a3d4-d31624bd3b47)
-)
-
-![Cursos Complementares](![cursos](https://github.com/user-attachments/assets/b410f4d3-b8d7-4e32-bdf0-e3686334e715)
-)
-
-![Tecnologias Usadas](![tecnologias](https://github.com/user-attachments/assets/09cccc1c-23d7-4886-bce9-ee14cca6f545)
-)
-
-(https://github.com/user-attachments/assets/ba91ba20-27dc-457e-a27d-0cbc72b9ac72)
-
-
+| <img src="./assets/images/prints/cursos.jpg" width="180"/> | <img src="./assets/images/prints/tecnologias.jpg" width="180"/> | <img src="./assets/images/prints/contato.jpg" width="180"/> |
+|---------------------------|----------------------------|-----------------|
+| **Cursos Complementares** | **Tecnologias Usadas**     | **Contato**     |
 
 ## 📚 Como executar
 
