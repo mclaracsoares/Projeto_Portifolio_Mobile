@@ -1,50 +1,87 @@
-# Welcome to your Expo app 👋
+# 📱 Portfólio Mobile – Maria Clara Soares
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Este é meu portfólio desenvolvido em **React Native com Expo**, onde apresento minha formação acadêmica, experiências, projetos, contatos e um mini game interativo (**Jogo da Senha – Bulls and Cows**). 
 
-## Get started
+O objetivo deste app é demonstrar minhas habilidades tanto no desenvolvimento mobile quanto na organização de projetos, além de servir como vitrine profissional.
 
-1. Install dependencies
+👩‍💻 Desenvolvido por
+Maria Clara C Soares
 
-   ```bash
-   npm install
-   ```
+---
 
-2. Start the app
+## ✨ Funcionalidades
 
-   ```bash
-   npx expo start
-   ```
+- ✅ Tela inicial (Home) com navegação intuitiva
+- ✅ Sobre mim
+- ✅ Formação acadêmica
+- ✅ Cursos complementares
+- ✅ Experiência profissional
+- ✅ Portfólio com alguns projetos com links diretos para o GitHub
+- ✅ Contato com acesso rápido (email, telefone, LinkedIn)
+- ✅ Mini game: **Jogo da Senha (Bulls and Cows)**, com integração via API
+- ✅ Navegação entre páginas com **Expo Router**
+- ✅ Design responsivo e moderno, adaptado para mobile
 
-In the output, you'll find options to open the app in a
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 🚀 Tecnologias Utilizadas
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- **React Native com Expo**
+- **Expo Router** – navegação entre telas
+- **TypeScript**
+- **Componentização com React**
+- **Hooks (useState)**
+- **StyleSheet (CSS-in-JS)**
+- **Layout Responsivo com ScrollView, View e Flexbox**
+- **SafeAreaView** – adaptação para telas de diferentes dispositivos
+- **API externa** – Advice API no Jogo da Senha
+- **Validações de dados** – bloqueio de números repetidos e tentativas duplicadas no jogo
+- **Feedback ao usuário** – Alertas interativos e mensagens de sucesso ou erro
+- **Navegação programática** – router.push e router.replace (Voltar para Home)
+- **Links externos** – integração com e-mail, telefone, LinkedIn e GitHub
+- **Uso de imagens locais** – carregamento de foto de perfil no app
+- **Organização de código** – CSS separado em arquivo styles.ts e pastas por contexto
+- **Deploy e execução no Expo Go**
 
-## Get a fresh project
+---
 
-When you're ready, run:
+## 🔗 Acesso
+
+- ▶️ Veja o app rodando no Expo: [**Link para o Expo Go**](https://expo.dev/)
+- 🧠 Repositório de código: [**GitHub**](https://github.com/mclaracsoares/Projeto_Portifolio_Mobile)
+
+---
+
+## 🖼️ Screenshots
+
+| Home | Projetos | Jogo da Senha |
+|------|----------|----------------|
+| ![Home](./assets/screenshots/home.png) | ![Projetos](./assets/screenshots/projetos.png) | ![Jogo](./assets/screenshots/jogo.png) |
+
+*(Adicione as imagens reais depois na pasta `/assets/screenshots`)*
+
+---
+
+## 📚 Como executar
+
+1. Clone o repositório:
 
 ```bash
-npm run reset-project
+git clone https://github.com/mclaracsoares/Portifolio_Mobile.git
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Instale as dependências:
+```bash
+npm install
+```
 
-## Learn more
+Rode o projeto:
 
-To learn more about developing your project with Expo, look at the following resources:
+```bash
+npx expo start
+```
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Escaneie o QR Code com o app Expo Go no seu celular (Android ou iOS).
 
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+📧 claracsoares10@gmail.com
+🔗 linkedin.com/in/maria-clara-soares
