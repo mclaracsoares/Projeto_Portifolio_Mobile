@@ -42,30 +42,22 @@ Maria Clara C Soares
 
 ## 🔗 Acesso
 
-- ▶️ Veja o app rodando no Expo: [**Link para o Expo Go**]([https://expo.dev/](https://expo.dev/preview/update?message=Primeira%20publica%C3%A7%C3%A3o%20do%20meu%20Portf%C3%B3lio&updateRuntimeVersion=1.0.0&createdAt=2025-05-25T23%3A08%3A19.248Z&slug=exp&projectId=2564d7df-76d6-47e7-a7e5-e92f6c749168&group=0f94e04b-e727-41e0-800e-40982c744762))
+- ▶️ Veja o app rodando no Expo: [**Link para o Expo Go**](https://expo.dev/preview/update?message=Atualiza%C3%A7%C3%A3o%20com%20novas%20funcionalidades&updateRuntimeVersion=1.0.0&createdAt=2025-05-25T23%3A36%3A20.915Z&slug=exp&projectId=2564d7df-76d6-47e7-a7e5-e92f6c749168&group=33928cf2-073b-4e7e-af8b-46509b93ccba)
 - 🧠 Repositório de código: [**GitHub**](https://github.com/mclaracsoares/Projeto_Portifolio_Mobile)
 
 ## 🖼️ Screenshots
 
-| Home | Projetos | Jogo da Senha |
-|------|----------|----------------|
-| Sobre | Formação Acadêmica | Experiência Profissional |
-|------|----------|----------------|
-| Cursos Complementares | Tecnologias Usadas | Contato |
+| <img src="./assets/images/prints/home.jpg" width="180"/> | <img src="./assets/images/prints/projetos.jpg" width="180"/> | <img src="./assets/images/prints/jogodasenha.jpg" width="180"/> |
+|-----------------|---------------------|------------------|
+| **Home**        | **Projetos**        | **Jogo da Senha**|
 
-| ![Home](![home](https://github.com/user-attachments/assets/934e1049-74ac-4fd9-a7c0-0c3837e38761)
-) | ![Projetos](![projetos](https://github.com/user-attachments/assets/20bb75d1-b11b-4b60-9a60-e9b4c9f00d70)
-) | ![Jogo da Senha]![jogodasenha](https://github.com/user-attachments/assets/f21baab4-34b6-410f-b61b-96a41b14f5d2)
-) |
-| ![Sobre](![sobre](https://github.com/user-attachments/assets/89f26ee7-b099-491d-a407-338b88ea969f)
-) | ![Formação Acadêmica](![formação](https://github.com/user-attachments/assets/0f0aa9b1-997f-4927-8424-88016b4f467f)
-O) | ![Experiência Profissional](![experiencia](https://github.com/user-attachments/assets/36158107-58a5-4a78-a3d4-d31624bd3b47)
-) |
-| ![Cursos Complementares](![cursos](https://github.com/user-attachments/assets/b410f4d3-b8d7-4e32-bdf0-e3686334e715)
-) | ![Tecnologias Usadas](![tecnologias](https://github.com/user-attachments/assets/09cccc1c-23d7-4886-bce9-ee14cca6f545)
-) | ![Contato](INSERE-LINK-DA-IMG-CONTATO) |
+| <img src="./assets/images/prints/sobre.jpg" width="180"/> | <img src="./assets/images/prints/formação.jpg" width="180"/> | <img src="./assets/images/prints/experiencia.jpg" width="180"/> |
+|-----------------|----------------------------|-------------------------------|
+| **Sobre**       | **Formação Acadêmica**     | **Experiência Profissional**  |
 
-
+| <img src="./assets/images/prints/cursos.jpg" width="180"/> | <img src="./assets/images/prints/tecnologias.jpg" width="180"/> | <img src="./assets/images/prints/contato.jpg" width="180"/> |
+|---------------------------|----------------------------|-----------------|
+| **Cursos Complementares** | **Tecnologias Usadas**     | **Contato**     |
 
 ## 📚 Como executar
 
@@ -91,4 +83,5 @@ Escaneie o QR Code com o app Expo Go no seu celular (Android ou iOS).
 ## 👩‍💻 Contato
 
 📧 claracsoares10@gmail.com
+
 🔗 linkedin.com/in/maria-clara-soares
