@@ -12,8 +12,8 @@ const projetos = [
   },
   {
     nome: 'Portfólio Mobile',
-    descricao: 'Aplicativo pessoal feito em React Native com Expo.',
-    link: 'https://github.com/mclaracsoares/Meu_Portifolio_Mobile',
+    descricao: 'Aplicativo portifolio feito em React Native com Expo.',
+    link: 'https://github.com/mclaracsoares/Projeto_Portifolio_Mobile',
   },
   {
     nome: 'Sistema para Hotel',
