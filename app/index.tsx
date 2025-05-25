@@ -18,19 +18,6 @@ export default function Home() {
           <Text style={styles.buttonText}>Sobre mim</Text>
         </TouchableOpacity>
       </Link>
-      
-      <Link href="/tecnologias" asChild>
-        <TouchableOpacity style={styles.button}>
-          <Text style={styles.buttonText}>Tecnologias do App</Text>
-        </TouchableOpacity>
-      </Link>
-
-      <Link href="/cursos" asChild>
-        <TouchableOpacity style={styles.button}>
-          <Text style={styles.buttonText}>Cursos Complementares</Text>
-        </TouchableOpacity>
-      </Link>
-
 
       <Link href="/formacao" asChild>
         <TouchableOpacity style={styles.button}>
@@ -44,15 +31,15 @@ export default function Home() {
         </TouchableOpacity>
       </Link>
 
+      <Link href="/cursos" asChild>
+        <TouchableOpacity style={styles.button}>
+          <Text style={styles.buttonText}>Cursos Complementares</Text>
+        </TouchableOpacity>
+      </Link>
+
       <Link href="/projetos" asChild>
         <TouchableOpacity style={styles.button}>
           <Text style={styles.buttonText}>Projetos</Text>
-        </TouchableOpacity>
-      </Link>
-      
-      <Link href="/contato" asChild>
-        <TouchableOpacity style={styles.button}>
-          <Text style={styles.buttonText}>Contato</Text>
         </TouchableOpacity>
       </Link>
 
@@ -61,6 +48,19 @@ export default function Home() {
           <Text style={styles.buttonText}>Jogo da Senha</Text>
         </TouchableOpacity>
       </Link>
+      
+      <Link href="/tecnologias" asChild>
+        <TouchableOpacity style={styles.button}>
+          <Text style={styles.buttonText}>Tecnologias do App</Text>
+        </TouchableOpacity>
+      </Link>
+
+      <Link href="/contato" asChild>
+        <TouchableOpacity style={styles.button}>
+          <Text style={styles.buttonText}>Contato</Text>
+        </TouchableOpacity>
+      </Link>
+
     </ScrollView>
   );
 }
