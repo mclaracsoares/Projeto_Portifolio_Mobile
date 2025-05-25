@@ -49,6 +49,12 @@ export default function Home() {
           <Text style={styles.buttonText}>Projetos</Text>
         </TouchableOpacity>
       </Link>
+      
+      <Link href="/contato" asChild>
+        <TouchableOpacity style={styles.button}>
+          <Text style={styles.buttonText}>Contato</Text>
+        </TouchableOpacity>
+      </Link>
 
       <Link href="/jogo" asChild>
         <TouchableOpacity style={styles.button}>
