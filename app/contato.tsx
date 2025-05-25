@@ -26,9 +26,23 @@ export default function Contato() {
         </View>
 
         <View style={styles.card}>
+          <Text style={styles.subTitle}>WhatsApp</Text>
+          <Pressable onPress={() => Linking.openURL('https://wa.me/5581988388899?text=Ol%C3%A1%2C+vim+pelo+seu+portf%C3%B3lio!')}>
+            <Text style={styles.link}>Falar no WhatsApp</Text>
+          </Pressable>
+        </View>
+
+        <View style={styles.card}>
           <Text style={styles.subTitle}>LinkedIn</Text>
-          <Pressable onPress={() => Linking.openURL('https://linkedin.com/in/maria-clara-soares')}>
-            <Text style={styles.link}>linkedin.com/in/maria-clara-soares</Text>
+          <Pressable onPress={() => Linking.openURL('https://www.linkedin.com/in/maria-clara-soares-88b311271/')}>
+            <Text style={styles.link}>Acessar meu LinkedIn</Text>
+          </Pressable>
+        </View>
+
+        <View style={styles.card}>
+          <Text style={styles.subTitle}>GitHub</Text>
+          <Pressable onPress={() => Linking.openURL('https://github.com/mclaracsoares')}>
+            <Text style={styles.link}>Ver meu GitHub</Text>
           </Pressable>
         </View>
       </View>
