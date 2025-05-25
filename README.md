@@ -7,8 +7,6 @@ O objetivo deste app é demonstrar minhas habilidades tanto no desenvolvimento m
 👩‍💻 Desenvolvido por
 Maria Clara C Soares
 
----
-
 ## ✨ Funcionalidades
 
 - ✅ Tela inicial (Home) com navegação intuitiva
@@ -21,8 +19,6 @@ Maria Clara C Soares
 - ✅ Mini game: **Jogo da Senha (Bulls and Cows)**, com integração via API
 - ✅ Navegação entre páginas com **Expo Router**
 - ✅ Design responsivo e moderno, adaptado para mobile
-
----
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -43,14 +39,10 @@ Maria Clara C Soares
 - **Organização de código** – CSS separado em arquivo styles.ts e pastas por contexto
 - **Deploy e execução no Expo Go**
 
----
-
 ## 🔗 Acesso
 
 - ▶️ Veja o app rodando no Expo: [**Link para o Expo Go**](https://expo.dev/)
 - 🧠 Repositório de código: [**GitHub**](https://github.com/mclaracsoares/Projeto_Portifolio_Mobile)
-
----
 
 ## 🖼️ Screenshots
 
@@ -59,8 +51,6 @@ Maria Clara C Soares
 | ![Home](./assets/screenshots/home.png) | ![Projetos](./assets/screenshots/projetos.png) | ![Jogo](./assets/screenshots/jogo.png) |
 
 *(Adicione as imagens reais depois na pasta `/assets/screenshots`)*
-
----
 
 ## 📚 Como executar
 
