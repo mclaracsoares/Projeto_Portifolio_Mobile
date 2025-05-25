@@ -82,6 +82,4 @@ Escaneie o QR Code com o app Expo Go no seu celular (Android ou iOS).
 
 ## 👩‍💻 Contato
 
-📧 claracsoares10@gmail.com
-
-🔗 linkedin.com/in/maria-clara-soares
+📧 claracsoares10@gmail.com  🔗 https://github.com/mclaracsoares  💼 https://www.linkedin.com/in/maria-clara-soares-88b311271/
