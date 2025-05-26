@@ -59,6 +59,9 @@ Maria Clara C Soares
 |---------------------------|----------------------------|-----------------|
 | **Cursos Complementares** | **Tecnologias Usadas**     | **Contato**     |
 
+## 📽️ Vídeo Demonstrativo
+👉 [Acessar o vídeo no Google Drive](https://drive.google.com/file/d/1u4bbe2Nl8rIU3aKrH9lrXnXscWOK9hb8/view?usp=sharing)
+
 ## 📚 Como executar
 
 1. Clone o repositório:
